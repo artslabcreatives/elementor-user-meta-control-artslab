@@ -1,6 +1,6 @@
-# Elementor Select2 Control
+# Elementor User Meta Control
 
-Adds a custom select2 control to the default elmentor form
+Adds a custom user metal control to the default elmentor form
 
 <p align="center"><a href="https://artslabcreatives.com" target="_blank"><img src="https://artslabcreatives.com/wp-content/uploads/2020/04/Dark-1-e1586270633179.png" width="400"></a></p>
 
@@ -38,7 +38,7 @@ This section describes how to install the plugin and get it working.
 
 ### Frequently Asked Questions
 
-= What is Elementor Select2 Control ? =
+= What is Elementor User Meta Control ? =
 
 Adds a custom select2 control to the default elmentor form
 
